@@ -1,4 +1,4 @@
-# Friendchised Api Services
+# Lumen Api Services
 
 Using Lumen 9 and php 8
 
@@ -9,7 +9,7 @@ Using Lumen 9 and php 8
 - mysql version 5.7
 
 ### - Clone
-    git clone git@github.com:friendchised/fc-api.git
+    git clone git@github.com:mmuflih/lumen9.git
 
 ### - Composer Install
     cd fc-api
